@@ -1,0 +1,3 @@
+Hi, here is a completely random file that I'm using just
+to use it as a test in my little program,
+so just ignore it because it doesn't mean anything :)
